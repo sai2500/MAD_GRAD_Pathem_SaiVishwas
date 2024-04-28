@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "180304B8-5EE8-4B46-A945-7251567231E0": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "42EE50B0-3704-4F93-86DB-D493972F07D9": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "C5F4514E-D092-4C21-AE44-6914872C5779": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "MyBoxcarImageClassifier.mlmodel",
+            "path": "com.apple.CoreML/MyBoxcarImageClassifier.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "C5F4514E-D092-4C21-AE44-6914872C5779"
+}
